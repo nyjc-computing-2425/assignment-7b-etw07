@@ -37,7 +37,7 @@ Write a function `read_testscores(filename)` that:
    - `'overall'`
    - `'grade'`
 4. Calculates the overall score of each student (see calculation formula below) and stores it under the `'overall'` key
-5. Determines the grade of each student and stores it under the `'grade'` key.
+5. Determines the grade of each student and stores it under the ` 'grade'` key.
 6. Returns a `list` of `dict`s, each `dict` representing row data for a single student
 
 You are recommended to store the scores for P1 to P4 as a quadruple (a 4-element `tuple`) instead of under separate `'p1'` to `'p4'` keys, for easier retrieval.  
